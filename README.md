@@ -5,7 +5,7 @@ A machine learning web app that predicts whether a breast tumor is **Benign** or
 **Model Accuracy: 96.5%** — Logistic Regression trained on the BRCA dataset (569 samples, 30 features)
 
 ## Live Demo
-[Coming soon after deployment]
+breast-cancer-predictor-production.up.railway.app
 
 ## Tech Stack
 - Python · Scikit-learn · FastAPI · Jinja2 · HTML/CSS
